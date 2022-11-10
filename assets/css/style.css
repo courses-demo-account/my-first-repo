@@ -8,6 +8,8 @@
     }
 
     h2 {
-        background: pink;
+        background: yellow;
         border: 5px solid blue;
+        border-radius: 15px;
+        padding: 10px;
     }
