@@ -6,3 +6,8 @@
     p {
         border: 3px solid green;
     }
+
+    h2 {
+        background: pink;
+        border: 5px solid blue;
+    }
